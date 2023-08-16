@@ -1,0 +1,43 @@
+104  git init
+  105  git remote add git@github.com:Adrianadc-Dev/Checkpoint-AdrianaDiaz.git
+  106  clear
+  107  git remote add origin git@github.com:Adrianadc-Dev/Checkpoint-AdrianaDiaz.git
+  108  git remot -v
+  109  git remote -v
+  110  touch main.js
+  111  touch index.html
+  112  git add .
+  113  clear
+  114  cd Checkpoint/
+  115  git init
+  116  git remote add origin git@github.com:Adrianadc-Dev/Checkpoint-AdrianaDiaz.git
+  117  git remote -v
+  118  touch main.js
+  119  touch index.html
+  120  git add .
+  121  git commit -m "commit 1 de Adriana Diaz"
+  122  git push origin main
+  123  git branch feature
+  124  git checkout feature 
+  125  mkdir Hardware Software Seguridadinformatica
+  126  cd Hardware/
+  127  touch resumen.txt
+  128  cd ..
+  129  cd Software/
+  130  touch resumen.txt
+  131  cd ..
+  132  cd Seguridadinformatica/
+  133  touch resumen.txt
+  134  git push origin feature
+  135  git checkout main
+  136  mv main.js resumenHardware.txt
+  137  ls
+  138  cd ..
+  139  ls
+  140  mv main.js resumenHardware.txt
+  141  ls
+  142  mv index.html resumenSoftware.txt
+  143  code resumenSoftware.txt 
+  144  code resumenHardware.txt 
+  145  touch comandos.txt
+  146  history
